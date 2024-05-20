@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">- 🎓 Computer science student at UFSCar.<br>- 💼 Former back end/mobile software developer at Santander.<br>- 🔬 Searching about sparse representations in digital image processing.<br>- 🕹️ Game development and computer graphics enthusiast.</p>
+<p align="left">- 🎓 Computer science student at UFSCar.<br>- 🔬 Searching about sparse representations in digital image processing. <br>- 🖼️ Computer vision in medical imaging. <br>
+- 🕹️ Game development enthusiast. <br>- 💼 Former back end/mobile software developer at Santander.</p> 
 
 ###
 
@@ -22,8 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30" alt="opengl logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
