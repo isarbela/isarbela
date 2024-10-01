@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">- 🎓 Computer science student at UFSCar.<br>- 🔬 Searching about sparse representations in digital image processing. <br>- 🖼️ Computer vision in medical imaging. <br>
-- 🕹️ Game development enthusiast. <br>- 💼 Former back end/mobile software developer at Santander.</p> 
+<p align="left"><br>
+- 🕹️ Intern at Wildlife Studios <br>- 🎓 Computer science student at UFSCar.<br>- 🔬 Searching about sparse representations in digital image processing.<br>- 💼 Former back end/mobile software developer at Santander.</p> 
 
 ###
 
