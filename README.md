@@ -3,7 +3,7 @@
 ###
 
 <p align="left"><br>
-- 🕹️ Intern at Wildlife Studios <br>- 🎓 Computer science student at UFSCar.<br>- 🔬 Searching about sparse representations in digital image processing.<br>- 💼 Former back end/mobile software developer at Santander.</p> 
+- 🕹️ Game Engineer at Wildlife Studios <br>- 🎓 Computer science - UFSCar.<br>- 🔬 Searching about sparse representations in digital image processing.<br>- 💼 Former back end/mobile software developer at Santander.</p> 
 
 ###
 
@@ -42,8 +42,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isarbela&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=isarbela&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
